@@ -14,7 +14,7 @@ namespace Zadacha5
 
             while (true)
             {
-                Console.Write("Въведете число: ");
+                Console.Write("Vavedi chislo: ");
                 int chislo = int.Parse(Console.ReadLine());
 
                 if (chislo == 0) 
